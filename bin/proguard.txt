@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:15
+-keep class com.mat.ChartActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.mat.InfomationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.mat.NewsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.mat.SearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.mat.StockSQLiteDatabaseActivity { <init>(...); }
+

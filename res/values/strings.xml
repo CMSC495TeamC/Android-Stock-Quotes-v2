@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">SP 500 App!</string>
+    <string name="app_name">S&amp;P 500 Stock Quote Finder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_infomation">Stock Information</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_chart">ChartActivity</string>
+
+</resources>
